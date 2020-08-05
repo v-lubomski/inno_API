@@ -10,7 +10,7 @@
 
 <h2>Roadmap:</h2>
 1. Client (done)
-2. CI
+2. CI (done)
 3. Pre-commit (done)
 4. API tests
 5. Logging
