@@ -1,4 +1,4 @@
-Напишите api тесты  на https://restful-booker.herokuapp.com/apidoc/index.html
+Напишите API тесты  на https://restful-booker.herokuapp.com/apidoc/index.html
 
 · Необходимо написать негативные и позитивные тесты на метод Booking – CreateBooking (POST /booking)
 · Необходимо настроить CI
